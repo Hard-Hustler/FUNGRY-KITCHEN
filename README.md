@@ -22,6 +22,9 @@ specializing in a diverse range of flavorful dishes. From savory Asian-inspired 
 
 [Documentation](https://docs.google.com/file/d/1rvdLCLE9lUz0J_j7I4Vj01zp7hBQG029/edit?usp=docslist_api&filetype=mspresentation)
 
+## Authors
+
+- [@hardikamarwani](https://github.com/Hard-Hustler)
 
 ## 🚀 About Me
 👋 Hey there! I'm a passionate frontend developer with a flair for creating visually stunning and user-friendly web experiences. With a solid foundation in HTML, CSS, and JavaScript, I thrive on turning design concepts into interactive and responsive websites that engage users and leave a lasting impression.
